@@ -1,5 +1,5 @@
 server:
-  port: 8761
+  port: 8761 ##포트번호는 실행 중일때 변경 시 적용되지 않음 -> actuator 적용안됌
 
 spring:
   application:
