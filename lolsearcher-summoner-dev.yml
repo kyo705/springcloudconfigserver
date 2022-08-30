@@ -6,12 +6,6 @@ server:
 spring:
   application:
     name: lolsearcher-summonerService
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: refresh
         
 eureka:
   client:
