@@ -1,7 +1,7 @@
 profile: lee sunkyov2
 
 server:
-  port: 8088
+  port: 9001
 
 spring:
   application:
