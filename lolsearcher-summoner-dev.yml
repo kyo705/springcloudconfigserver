@@ -3,6 +3,10 @@ profile: lee sunkyo
 server:
   port: 8088
 
+spring:
+  application:
+    name: lolsearcher-summonerService
+
 management:
   endpoints:
     web:
