@@ -1,0 +1,7 @@
+profile: lee sunkyo
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
